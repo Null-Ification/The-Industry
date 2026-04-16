@@ -6,31 +6,29 @@ attribute: steam
 displayEfficiencyScale: 0.1111111111
 displayEfficiency: false
 minEfficiency: 8
-powerProduction: 0
+powerProduction: 0.4444444444
 squareSprite: false
 category: power
 research: core-shard
 buildCostMultiplier: 2
 requirements: [
-    copper/50
+    copper/20
+    beryllium/35
 ]
 researchCost: [
     copper/5
+    beryllium/10
 ]
 drawer: {
     type: DrawMulti
     drawers: [
         {
-            type: DrawRegion
-            suffix: -bottom
+            type: DrawDefault
         }
         {
             type: DrawBlurSpin
             suffix: -rotator
             rotateSpeed: 5
-        }
-        {
-            type: DrawDefault
         }
     ]
 }
