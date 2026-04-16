@@ -20,7 +20,7 @@ researchCost: [
     beryllium/10
 ]
 generateEffect: turbinegenerate
-effectChance: 0.1
+effectChance: 0.065
 drawer: {
     type: DrawMulti
     drawers: [
