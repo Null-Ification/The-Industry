@@ -1,0 +1,12 @@
+name: "theIndustry"
+displayName: "The Industry"
+author: "[NULL] (in a list)"
+description:
+'''
+The first 'proper' mod made by me.
+I'm lazy asf so don't expect anything.
+'''
+version: "0.1"
+minGameVersion: "157"
+subtitle: "Hot trash"
+repo: ""
