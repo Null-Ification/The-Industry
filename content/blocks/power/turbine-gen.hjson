@@ -19,8 +19,8 @@ researchCost: [
     copper/5
     beryllium/10
 ]
-smokeEffect: turbinegenerate
-smokeTime: 20
+generateEffect: turbinegenerate
+effectChance: 0.04
 drawer: {
     type: DrawMulti
     drawers: [
