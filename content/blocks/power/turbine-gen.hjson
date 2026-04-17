@@ -5,7 +5,7 @@ fogRadius: 3
 attribute: steam
 displayEfficiencyScale: 0.1111111111
 displayEfficiency: false
-minEfficiency: 8
+minEfficiency: 9
 powerProduction: 0.4444444444
 squareSprite: false
 category: power
