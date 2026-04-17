@@ -10,7 +10,7 @@ powerProduction: 0.4444444444
 squareSprite: false
 category: power
 research: core-shard
-buildCostMultiplier: 2
+buildCostMultiplier: 1
 requirements: [
     copper/20
     beryllium/35
