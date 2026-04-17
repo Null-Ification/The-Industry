@@ -6,7 +6,7 @@ size: 2
 optionalBoostIntensity: 1
 drillTime: 240
 hasLiquids: true
-cosumes: {
+consumes: {
     liquid: hydrogen/1
     power: 0.1
 }
