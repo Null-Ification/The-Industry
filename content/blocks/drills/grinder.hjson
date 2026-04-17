@@ -1,0 +1,18 @@
+type: beamDrill
+health: 200
+range: 0
+tier: 1
+size: 2
+optionalBoostIntensity: 1
+drillTime: 30
+hasLiquids: true
+cosumes: {
+    liquid: hydrogen/1
+    power: 0.1
+}
+fogRadius: 2
+category: production
+requirements: [
+    copper/10
+    beryllium/15
+]
