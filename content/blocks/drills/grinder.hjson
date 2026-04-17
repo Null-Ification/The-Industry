@@ -1,6 +1,6 @@
 type: beamDrill
 health: 200
-range: 0
+range: 1
 tier: 1
 size: 2
 optionalBoostIntensity: 1
